@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DestructionTest",
+			"Path": "E:\\GitProjects\\ThesisJamFPS\\DestructionTest\\Source\\DestructionTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DestructionTestEditor",
+			"Path": "E:\\GitProjects\\ThesisJamFPS\\DestructionTest\\Source\\DestructionTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
